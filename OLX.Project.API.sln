@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLX.Common", "OLX.Common\OL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLX.API", "OLX.Project.API\OLX.API.csproj", "{B74D0061-6A4B-4CCF-97D5-E5FBBB78FC3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLX.DataAccess", "OLX.DataAccess\OLX.DataAccess.csproj", "{224E2C4E-C80C-4558-9AF6-291F96C8D457}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B74D0061-6A4B-4CCF-97D5-E5FBBB78FC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B74D0061-6A4B-4CCF-97D5-E5FBBB78FC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B74D0061-6A4B-4CCF-97D5-E5FBBB78FC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224E2C4E-C80C-4558-9AF6-291F96C8D457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224E2C4E-C80C-4558-9AF6-291F96C8D457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224E2C4E-C80C-4558-9AF6-291F96C8D457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224E2C4E-C80C-4558-9AF6-291F96C8D457}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
